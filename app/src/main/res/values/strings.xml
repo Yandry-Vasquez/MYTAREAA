@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MYTAREA</string>
+    <string name="txtCentigrados">Grados Centigrados</string>
+    <string name="txtFahrenheit">Grados Fahrenheit</string>
+    <string name="buttonConversionC">grados centigrados</string>
+    <string name="buttonConversionF">grados fahrenheit</string>
+    <string name="btnBorrar">Reiniciar</string>
+</resources>
